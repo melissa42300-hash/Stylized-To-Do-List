@@ -1,0 +1,30 @@
+a {
+  text-decoration: none;
+}
+txt {
+  color: #ff0080;
+}
+a:link {
+  color: #00ccff;
+}
+
+a:visited {
+  color: #ff00ff;
+}
+
+a:hover {
+  color: #ff00ff;
+}
+
+
+a:focus {
+  outline: 2px solid #e6e600;
+}
+
+a:active {
+  color: #00ff00;
+}
+
+input[type="checkbox"] {
+  accent-color:#55ff00;
+}
